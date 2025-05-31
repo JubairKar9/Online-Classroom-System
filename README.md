@@ -21,6 +21,6 @@ A web-based platform to support online teaching, student submissions, and announ
 
 ## 📸 Screenshots
 *Add screenshots of the login page, dashboard, etc.*
-
+![Online Classroom Screenshot](images/classroom.png)
 ## 📌 Status
 Completed | Used during remote learning deployment
