@@ -19,8 +19,7 @@ A web-based platform to support online teaching, student submissions, and announ
 3. Place all files into `htdocs` folder
 4. Run `localhost/Online-Classroom-System` in browser
 
-## 📸 Screenshots
-*Add screenshots of the login page, dashboard, etc.*
+## 📸 Screenshot
 ![Online Classroom Screenshot](https://github.com/user-attachments/assets/e5aa6001-4a52-41dc-9680-fb6d200a7f94)
 ## 📌 Status
 Completed | Used during remote learning deployment
