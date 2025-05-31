@@ -1,4 +1,4 @@
-see# 📚 Online Classroom System
+# 📚 Online Classroom System
 
 A web-based platform to support online teaching, student submissions, and announcements.
 
