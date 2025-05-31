@@ -1,4 +1,4 @@
-# 📚 Online Classroom System
+see# 📚 Online Classroom System
 
 A web-based platform to support online teaching, student submissions, and announcements.
 
@@ -21,6 +21,6 @@ A web-based platform to support online teaching, student submissions, and announ
 
 ## 📸 Screenshots
 *Add screenshots of the login page, dashboard, etc.*
-![Online Classroom Screenshot](https://github.com/user-attachments/assets/e5aa6001-4a52-41dc-9680-fb6d200a7f94images)
+![Online Classroom Screenshot](https://github.com/user-attachments/assets/e5aa6001-4a52-41dc-9680-fb6d200a7f94)
 ## 📌 Status
 Completed | Used during remote learning deployment
